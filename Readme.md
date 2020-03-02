@@ -53,7 +53,9 @@ Questions:
 Language: Python3.7
 
 Execute program w/ default file "../test1.txt": python main.py
+
 Execute program w/ a different file: python main.py -f filename
+
 example: python main.py -f test2.txt
 
 
